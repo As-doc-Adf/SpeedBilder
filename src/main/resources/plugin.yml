@@ -1,0 +1,6 @@
+name: Bilder
+version: '${project.version}'
+main: speedbilder.bilder.Bilder
+commands:
+  reload: {}
+  save: {}
